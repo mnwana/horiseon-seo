@@ -13,5 +13,5 @@ Proper use of semantic HTLM, alt elements, and simpler code allows for better ac
 
 The deployed app lives at https://mnwana.github.io/horiseon-seo/
 
-![Top half of website](https://github.com/mnwana/horiseon-seo/blob/main/top_half.jpg?raw=true)
-![Bottom half of website](https://github.com/mnwana/horiseon-seo/blob/main/bottom_half.jpg?raw=true)
+![Top half of website](https://github.com/mnwana/horiseon-seo/blob/main/assets/images/top-half.png?raw=true)
+![Bottom half of website](https://github.com/mnwana/horiseon-seo/blob/main/assets/images/bottom-half.png?raw=true)
